@@ -4,7 +4,7 @@
 A Python implementation of the **Hog** dice game: simulator, strategies, commentary functions, and small Monte‑Carlo utilities.
 
 > **Academic Integrity / Note**
-> This project was completed in Fall 2021 at **UC Berkeley** for CS 61A: The Structure and Interpretation of Computer Programs. It is published for portfolio/educational purposes only—please do not reuse in active coursework.
+>> This project was completed in Fall 2021 at **UC Berkeley** for CS 61A: The Structure and Interpretation of Computer Programs. It is published for portfolio/educational purposes only—please do not reuse in active coursework.
 
 ---
 
@@ -12,7 +12,6 @@ A Python implementation of the **Hog** dice game: simulator, strategies, comment
 
 * Two players race to a **goal score** (default **100**). Each turn, a player chooses **0–10** dice to roll.
 * Special rules:
-
   * **Sow Sad**: If any die shows **1**, that turn’s score is **exactly 1**.
   * **Picky Piggy**: Rolling **0** dice yields the *n*‑th digit of `1/7 = 0.(142857)` where *n* is the opponent’s score; if *n* is 0, score **7**.
   * **Hog Pile**: After adding the turn score, if totals are **equal**, the current player’s total is **doubled**.
@@ -28,13 +27,14 @@ A Python implementation of the **Hog** dice game: simulator, strategies, comment
 ./ucb.py          # helpers used by ok/tests
 ./gui_files/      # GUI static assets
 
+```
 ---
 
 ## ▶️ Quick Start
 
 ```
 python3 hog_gui.py
-
+```
 
 
 ---
