@@ -4,7 +4,7 @@
 A Python implementation of the **Hog** dice game: simulator, strategies, commentary functions, and small Monte‑Carlo utilities.
 
 > **Academic Integrity / Note**
-> This project was originally completed ~4 years ago for learning purposes. It is published for portfolio/education only—please **do not** reuse in active coursework.
+> This project was completed in Fall 2021 at **UC Berkeley** for CS 61A: The Structure and Interpretation of Computer Programs. It is published for portfolio/educational purposes only—please do not reuse in active coursework.
 
 ---
 
@@ -21,7 +21,7 @@ A Python implementation of the **Hog** dice game: simulator, strategies, comment
 
 ## 📁 Repository Layout & Naming
 
-'''
+```
 ./hog.py          # main implementation
 ./dice.py         # dice utilities (fair/test)
 ./hog_gui.py      # GUI runner
@@ -32,8 +32,8 @@ A Python implementation of the **Hog** dice game: simulator, strategies, comment
 
 ## ▶️ Quick Start
 
-python3 hog_gui.py
 ```
+python3 hog_gui.py
 
 
 
