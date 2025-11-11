@@ -1,5 +1,4 @@
-# Hog: Dice Game Simulator (CS61A‑style)
-
+# Hog: Dice Game Simulator
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 A Python implementation of the **Hog** dice game: simulator, strategies, commentary functions, and small Monte‑Carlo utilities.
