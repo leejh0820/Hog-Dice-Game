@@ -5,7 +5,7 @@ A Python implementation of the **Hog** dice game: simulator, strategies, comment
 
 > **Academic Integrity / Note**
 > 
-> This project was completed in Fall 2021 at **UC Berkeley** for CS 61A: The Structure and Interpretation of Computer Programs. It is published for portfolio/educational purposes only—please do not reuse in active coursework.
+> This project was completed in Fall 2021 at **UC Berkeley** for CS 61A: The Structure and Interpretation of Computer Programs. It is published for portfolio/educational purposes only — please do not reuse in active coursework.
 
 ---
 
